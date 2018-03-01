@@ -1,7 +1,7 @@
 # Installing and using Kong via Vagrant file
 
 ```
-$ git clone https://github.com/Mashape/kong-vagrant
+$ git clone https://github.com/omarysadek/kong-gp-jwt-redis
 $ cd kong-vagrant/
 $ vagrant up
 $ vagrant ssh
